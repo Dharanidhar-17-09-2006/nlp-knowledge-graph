@@ -162,7 +162,6 @@ Test_pipeline.py       Pipeline and unit tests
 main_neo4j.py          CLI pipeline runner
 docker-compose.yml     Local Neo4j service
 .env.example           Configuration template
-PROJECT_HIGHLIGHTS.md  Interview talking points
 ```
 
 ## Tech Stack
