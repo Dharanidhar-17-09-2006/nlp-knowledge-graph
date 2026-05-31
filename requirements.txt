@@ -1,0 +1,27 @@
+# Core NLP
+spacy>=3.7.0
+transformers>=4.35.0
+torch>=2.0.0
+rapidfuzz>=3.0.0
+
+# Groq LLM
+requests>=2.31.0
+
+# Graph database
+neo4j>=5.0.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# Web UI
+streamlit>=1.28.0
+pyvis>=0.3.2
+
+# PDF input
+pdfplumber>=0.10.0
+
+# Wikipedia input
+beautifulsoup4>=4.12.0
+
+# Utilities
+python-dotenv>=1.0.0

@@ -1,0 +1,6 @@
+Albert Einstein was born in Ulm, Germany.
+Marie Curie studied at the University of Paris.
+Marie Curie was born in Warsaw.
+Newton was born in Lincolnshire, England.
+Python was created by Guido van Rossum.
+The theory of relativity was developed by Albert Einstein.

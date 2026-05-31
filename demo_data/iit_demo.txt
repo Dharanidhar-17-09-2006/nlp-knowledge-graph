@@ -1,0 +1,5 @@
+Srishwan is a student at IIT Kharagpur.
+Aaron Jason Baptist studies in the AI Department.
+The AI Department is part of IIT Kharagpur.
+Rahul studies Computer Science at IIT Kharagpur.
+IIT Kharagpur is located in West Bengal, India.
