@@ -39,7 +39,7 @@ Graph builder:
 
 Natural language graph querying:
 
-![Query example](assets/screenshots/query_example.png)
+![Query example](assets/screenshots/query_screen.png)
 
 ## Features
 
@@ -167,9 +167,8 @@ PROJECT_HIGHLIGHTS.md  Interview talking points
 
 ## Tech Stack
 
-- **REBEL** (Babelscape/rebel-large) — seq2seq relation extraction
+- **REBEL + spaCy** — seq2seq triple extraction with NER entity labeling
 - **Groq + Llama 3.1-8b** — LLM triple extraction
-- **spaCy en_core_web_lg** — NER, sentence segmentation, dependency parsing, pronoun resolution
 - **Neo4j** — graph database
 - **Streamlit + PyVis** — frontend and graph visualization
 - **SentenceTransformers** — semantic evaluation
